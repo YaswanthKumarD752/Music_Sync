@@ -1,4 +1,5 @@
 🔌 Hardware Overview
+
 🔧 Components:
 •ESP32 Dev Module
 •MAX9814 Analog Microphone
@@ -16,6 +17,7 @@
 •GND → shared with ESP32
 
 🧠 Key Code Concepts
+
 🔊 Audio Processing
 •ESP32 reads analog mic data (analogRead(MIC_PIN))
 •Calculates the amplitude (sound intensity) by removing DC bias and taking the absolute value
