@@ -6,7 +6,7 @@ A real-time audio-reactive LED visualizer using an ESP32, MAX9814 analog microph
 
 ## 📸 Demo Preview
 
-> *(Insert GIF or YouTube video link here)*  
+> ![Demo Preview](Demo.mp4)   
 > _“Watch how the LED bar dances to music beats!”_
 
 ---
