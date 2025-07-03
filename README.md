@@ -45,7 +45,7 @@ A real-time audio-reactive LED visualizer using an ESP32, MAX9814 analog microph
 
 ## 🔌 Circuit Diagram
 
-> ![Wiring Diagram](wiring_diagram.png)  
+> ![Wiring Diagram](Wiring Diagram.png)  
 > _**Note:** WS2811 DIN → GPIO 14, Mic OUT → GPIO 36_
 
 ---
